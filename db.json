@@ -1,24 +1,28 @@
 {
 	"characters": [
 		{
+			"id": 1,
 			"firstname": "Tony",
 			"lastname": "Stark",
 			"movie": "Avengers",
 			"isGoodGuy": true
 		},
 		{
+			"id": 2,
 			"firstname": "Darth",
 			"lastname": "Vader",
 			"movie": "Star Wars",
 			"isGoodGuy": false
 		},
 		{
+			"id": 3,
 			"firstname": "Harry",
 			"lastname": "Potter",
 			"movie": "Harry Potter",
 			"isGoodGuy": true
 		},
 		{
+			"id": 4,
 			"firstname": "Olivier",
 			"lastname": "Ricou",
 			"movie": "Epita",
