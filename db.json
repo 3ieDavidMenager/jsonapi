@@ -37,15 +37,6 @@
 			"registered": true
 		},
 		{
-			"id": 5,
-			"first_name": "Stefan",
-			"last_name": "Champion",
-			"username": "schampion",
-			"password": "Meeple12",
-			"popularity": 9,
-			"registered": false
-		},
-		{
 			"id": 6,
 			"first_name": "Eric",
 			"last_name": "Langue",
@@ -89,186 +80,6 @@
 			"password": "F0xtrail",
 			"popularity": 9,
 			"registered": true
-		},
-		{
-			"id": 11,
-			"first_name": "Michael",
-			"last_name": "Foxé",
-			"username": "mfoxe",
-			"password": "BunnyHop9",
-			"popularity": 6,
-			"registered": false
-		},
-		{
-			"id": 12,
-			"first_name": "Vital",
-			"last_name": "Larçonne",
-			"username": "vlarconne",
-			"password": "HeavyPlay33",
-			"popularity": 10,
-			"registered": true
-		},
-		{
-			"id": 13,
-			"first_name": "Jamey",
-			"last_name": "Stegmaître",
-			"username": "jstegmaitre",
-			"password": "Stonemaier99",
-			"popularity": 8,
-			"registered": true
-		},
-		{
-			"id": 14,
-			"first_name": "Bruno",
-			"last_name": "Faidutte",
-			"username": "bfaidutte",
-			"password": "BluffKing",
-			"popularity": 7,
-			"registered": false
-		},
-		{
-			"id": 15,
-			"first_name": "Cyril",
-			"last_name": "Dieux",
-			"username": "cdieux",
-			"password": "Mythos444",
-			"popularity": 6,
-			"registered": true
-		},
-		{
-			"id": 16,
-			"first_name": "Friedemann",
-			"last_name": "Frichette",
-			"username": "ffrichette",
-			"password": "GreenHair7",
-			"popularity": 9,
-			"registered": true
-		},
-		{
-			"id": 17,
-			"first_name": "Wolfgang",
-			"last_name": "Warsheim",
-			"username": "wwarsheim",
-			"password": "TavernsRule",
-			"popularity": 8,
-			"registered": true
-		},
-		{
-			"id": 18,
-			"first_name": "Martin",
-			"last_name": "Wallez",
-			"username": "mwallez",
-			"password": "LegacyFan1",
-			"popularity": 10,
-			"registered": false
-		},
-		{
-			"id": 19,
-			"first_name": "Roxley",
-			"last_name": "Gamez",
-			"username": "rgamez",
-			"password": "Santorini99",
-			"popularity": 5,
-			"registered": false
-		},
-		{
-			"id": 20,
-			"first_name": "Gil",
-			"last_name": "Havienne",
-			"username": "ghavienne",
-			"password": "Kickstart3r",
-			"popularity": 7,
-			"registered": true
-		},
-		{
-			"id": 21,
-			"first_name": "Isaac",
-			"last_name": "Childresse",
-			"username": "ichildresse",
-			"password": "GloomHackz",
-			"popularity": 10,
-			"registered": true
-		},
-		{
-			"id": 22,
-			"first_name": "Donald",
-			"last_name": "Vacarme",
-			"username": "dvacarme",
-			"password": "DeckMaster",
-			"popularity": 6,
-			"registered": true
-		},
-		{
-			"id": 23,
-			"first_name": "Marc",
-			"last_name": "Andrieux",
-			"username": "mandrieux",
-			"password": "Splendor4U",
-			"popularity": 9,
-			"registered": false
-		},
-		{
-			"id": 24,
-			"first_name": "Klaus",
-			"last_name": "Tonnère",
-			"username": "ktonnere",
-			"password": "CatanR0cks",
-			"popularity": 8,
-			"registered": true
-		},
-		{
-			"id": 25,
-			"first_name": "Phil",
-			"last_name": "Walker-Racing",
-			"username": "pwalkeracing",
-			"password": "RaceTrack22",
-			"popularity": 7,
-			"registered": false
-		},
-		{
-			"id": 26,
-			"first_name": "Nikki",
-			"last_name": "Valente",
-			"username": "nvalente",
-			"password": "BoardGirl88",
-			"popularity": 6,
-			"registered": true
-		},
-		{
-			"id": 27,
-			"first_name": "Sebastien",
-			"last_name": "Pivotto",
-			"username": "spivotto",
-			"password": "ZombieCardz",
-			"popularity": 7,
-			"registered": false
-		},
-		{
-			"id": 28,
-			"first_name": "Andreas",
-			"last_name": "Schtroumpf",
-			"username": "aschtroumpf",
-			"password": "BlueMeeple",
-			"popularity": 8,
-			"registered": true
-		},
-		{
-			"id": 29,
-			"first_name": "Cathleen",
-			"last_name": "Arnak",
-			"username": "carnak",
-			"password": "LostTemple",
-			"popularity": 9,
-			"registered": true
-		},
-		{
-			"id": 30,
-			"first_name": "Theo",
-			"last_name": "Rifugié",
-			"username": "trifugie",
-			"password": "ZombieEscape!",
-			"popularity": 8,
-			"registered": false
 		}
 	],
 	"posts": [
@@ -324,6 +135,114 @@
 			"tags": [
 				"toto",
 				"fun"
+			]
+		},
+		{
+			"id": 8,
+			"content": "Les bananes sont des baies, mais les fraises ne le sont pas.",
+			"popularity": 9,
+			"tags": [
+				"fun",
+				"fact"
+			]
+		},
+		{
+			"id": 9,
+			"content": "Les pieuvres ont trois cœurs, et deux s'arrêtent quand elles nagent.",
+			"popularity": 8,
+			"tags": [
+				"fun",
+				"fact"
+			]
+		},
+		{
+			"id": 10,
+			"content": "Un groupe de flamants roses s'appelle une 'flamboyance'.",
+			"popularity": 7,
+			"tags": [
+				"fun",
+				"fact"
+			]
+		},
+		{
+			"id": 11,
+			"content": "La tour Eiffel peut grandir de plus de 15 centimètres en été à cause de la dilatation du métal.",
+			"popularity": 8,
+			"tags": [
+				"fun",
+				"fact"
+			]
+		},
+		{
+			"id": 12,
+			"content": "Le miel ne périme jamais. Des archéologues ont trouvé du miel vieux de 3 000 ans encore comestible.",
+			"popularity": 10,
+			"tags": [
+				"fun",
+				"fact"
+			]
+		},
+		{
+			"id": 13,
+			"content": "Les requins existaient avant les arbres. Ils sont apparus il y a plus de 400 millions d'années.",
+			"popularity": 9,
+			"tags": [
+				"fun",
+				"fact"
+			]
+		},
+		{
+			"id": 14,
+			"content": "On n'utilise que 10 % de notre cerveau.",
+			"popularity": 9,
+			"tags": [
+				"fake",
+				"fact"
+			]
+		},
+		{
+			"id": 15,
+			"content": "Le mur de Chine est visible depuis la Lune.",
+			"popularity": 10,
+			"tags": [
+				"fake",
+				"fact"
+			]
+		},
+		{
+			"id": 16,
+			"content": "Les cheveux et les ongles continuent de pousser après la mort.",
+			"popularity": 8,
+			"tags": [
+				"fake",
+				"fact"
+			]
+		},
+		{
+			"id": 17,
+			"content": "Les caméléons changent de couleur pour se camoufler.",
+			"popularity": 7,
+			"tags": [
+				"fake",
+				"fact"
+			]
+		},
+		{
+			"id": 18,
+			"content": "Le sucre rend les enfants hyperactifs.",
+			"popularity": 8,
+			"tags": [
+				"fake",
+				"fact"
+			]
+		},
+		{
+			"id": 19,
+			"content": "Napoléon était très petit.",
+			"popularity": 8,
+			"tags": [
+				"fake",
+				"fact"
 			]
 		}
 	],
