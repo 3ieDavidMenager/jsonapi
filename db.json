@@ -54,7 +54,8 @@
 			"username": "bkalata",
 			"password": "Pa$$w0rd1",
 			"popularity": 9,
-			"registered": true
+			"registered": true,
+			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_1.png"
 		},
 		{
 			"id": 2,
@@ -63,7 +64,9 @@
 			"username": "abozza",
 			"password": "Secret22!",
 			"popularity": 7,
-			"registered": false
+			"registered": false,
+			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_2.png"
+
 		},
 		{
 			"id": 3,
@@ -72,7 +75,8 @@
 			"username": "rkniziaque",
 			"password": "Dice4Life",
 			"popularity": 10,
-			"registered": true
+			"registered": true,
+			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_3.png"
 		},
 		{
 			"id": 4,
@@ -81,7 +85,8 @@
 			"username": "urozenbergue",
 			"password": "FeldPass9",
 			"popularity": 8,
-			"registered": true
+			"registered": true,
+			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_4.png"
 		},
 		{
 			"id": 6,
@@ -90,7 +95,8 @@
 			"username": "elangue",
 			"password": "DragonsR0ck",
 			"popularity": 7,
-			"registered": true
+			"registered": true,
+			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_6.png"
 		},
 		{
 			"id": 7,
@@ -99,7 +105,8 @@
 			"username": "rgarphonne",
 			"password": "Magic@123",
 			"popularity": 10,
-			"registered": false
+			"registered": false,
+			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_7.png"
 		},
 		{
 			"id": 8,
@@ -108,7 +115,8 @@
 			"username": "eravage",
 			"password": "LegacyL0ver",
 			"popularity": 8,
-			"registered": true
+			"registered": true,
+			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_8.png"
 		},
 		{
 			"id": 9,
@@ -117,7 +125,8 @@
 			"username": "ibrandade",
 			"password": "PuzzleFun88",
 			"popularity": 6,
-			"registered": false
+			"registered": false,
+			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_9.png"
 		},
 		{
 			"id": 10,
@@ -126,7 +135,8 @@
 			"username": "mlecoq",
 			"password": "F0xtrail",
 			"popularity": 9,
-			"registered": true
+			"registered": true,
+			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_10.png"
 		}
 	],
 	"posts": [
