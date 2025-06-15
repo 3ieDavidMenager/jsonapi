@@ -52,7 +52,6 @@
 			"first_name": "Bruno",
 			"last_name": "Kalata",
 			"username": "bkalata",
-			"password": "Pa$$w0rd1",
 			"popularity": 9,
 			"registered": true,
 			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_1.png"
@@ -62,7 +61,6 @@
 			"first_name": "Antoine",
 			"last_name": "Bozza",
 			"username": "abozza",
-			"password": "Secret22!",
 			"popularity": 7,
 			"registered": false,
 			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_2.png"
@@ -73,7 +71,6 @@
 			"first_name": "Reiner",
 			"last_name": "Kniziaque",
 			"username": "rkniziaque",
-			"password": "Dice4Life",
 			"popularity": 10,
 			"registered": true,
 			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_3.png"
@@ -83,7 +80,6 @@
 			"first_name": "Uwe",
 			"last_name": "Rozenbergue",
 			"username": "urozenbergue",
-			"password": "FeldPass9",
 			"popularity": 8,
 			"registered": true,
 			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_4.png"
@@ -93,7 +89,6 @@
 			"first_name": "Eric",
 			"last_name": "Langue",
 			"username": "elangue",
-			"password": "DragonsR0ck",
 			"popularity": 7,
 			"registered": true,
 			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_6.png"
@@ -103,7 +98,6 @@
 			"first_name": "Richard",
 			"last_name": "Garphonne",
 			"username": "rgarphonne",
-			"password": "Magic@123",
 			"popularity": 10,
 			"registered": false,
 			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_7.png"
@@ -113,7 +107,6 @@
 			"first_name": "Elizabeth",
 			"last_name": "Ravage",
 			"username": "eravage",
-			"password": "LegacyL0ver",
 			"popularity": 8,
 			"registered": true,
 			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_8.png"
@@ -123,7 +116,6 @@
 			"first_name": "Inka",
 			"last_name": "Brandade",
 			"username": "ibrandade",
-			"password": "PuzzleFun88",
 			"popularity": 6,
 			"registered": false,
 			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_9.png"
@@ -133,7 +125,6 @@
 			"first_name": "Matt",
 			"last_name": "Lecoq",
 			"username": "mlecoq",
-			"password": "F0xtrail",
 			"popularity": 9,
 			"registered": true,
 			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_10.png"
