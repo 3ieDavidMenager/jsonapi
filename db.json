@@ -46,7 +46,7 @@
 			"password": "F0xtrail"
 		}
 	],
-	"users": [
+	"user": [
 		{
 			"id": 1,
 			"first_name": "Bruno",
