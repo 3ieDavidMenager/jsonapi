@@ -1,377 +1,143 @@
 {
-	"login": [
-		{
-			"id": 1,
-			"username": "bkalata",
-			"password": "Pa$$w0rd1"
-		},
-		{
-			"id": 2,
-			"username": "abozza",
-			"password": "Secret22!"
-		},
-		{
-			"id": 3,
-			"username": "rkniziaque",
-			"password": "Dice4Life"
-		},
-		{
-			"id": 4,
-			"username": "urozenbergue",
-			"password": "FeldPass9"
-		},
-		{
-			"id": 6,
-			"username": "elangue",
-			"password": "DragonsR0ck"
-		},
-		{
-			"id": 7,
-			"username": "rgarphonne",
-			"password": "Magic@123"
-		},
-		{
-			"id": 8,
-			"username": "eravage",
-			"password": "LegacyL0ver"
-		},
-		{
-			"id": 9,
-			"username": "ibrandade",
-			"password": "PuzzleFun88"
-		},
-		{
-			"id": 10,
-			"username": "mlecoq",
-			"password": "F0xtrail"
-		}
-	],
-	"user": [
+	"scores": [
 		{
 			"id": 1,
 			"first_name": "Bruno",
 			"last_name": "Kalata",
-			"username": "bkalata",
-			"popularity": 9,
-			"registered": true,
-			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_1.png"
+			"game": 2,
+			"win": true
 		},
 		{
 			"id": 2,
 			"first_name": "Antoine",
 			"last_name": "Bozza",
-			"username": "abozza",
-			"popularity": 7,
-			"registered": false,
-			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_2.png"
+			"game": 1,
+			"win": false
 		},
 		{
 			"id": 3,
 			"first_name": "Reiner",
 			"last_name": "Kniziaque",
-			"username": "rkniziaque",
-			"popularity": 10,
-			"registered": true,
-			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_3.png"
+			"game": 3,
+			"win": true
 		},
 		{
 			"id": 4,
 			"first_name": "Uwe",
 			"last_name": "Rozenbergue",
-			"username": "urozenbergue",
-			"popularity": 8,
-			"registered": true,
-			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_4.png"
+			"game": 1,
+			"win": true
 		},
 		{
 			"id": 6,
 			"first_name": "Eric",
 			"last_name": "Langue",
-			"username": "elangue",
-			"popularity": 7,
-			"registered": true,
-			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_6.png"
+			"game": 2,
+			"win": true
 		},
 		{
 			"id": 7,
 			"first_name": "Richard",
 			"last_name": "Garphonne",
-			"username": "rgarphonne",
-			"popularity": 10,
-			"registered": false,
-			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_7.png"
+			"game": 3,
+			"win": false
 		},
 		{
 			"id": 8,
 			"first_name": "Elizabeth",
 			"last_name": "Ravage",
-			"username": "eravage",
-			"popularity": 8,
-			"registered": true,
-			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_8.png"
+			"game": 3,
+			"win": true
 		},
 		{
 			"id": 9,
 			"first_name": "Inka",
 			"last_name": "Brandade",
-			"username": "ibrandade",
-			"popularity": 6,
-			"registered": false,
-			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_9.png"
+			"game": 2,
+			"win": false
 		},
 		{
 			"id": 10,
 			"first_name": "Matt",
 			"last_name": "Lecoq",
-			"username": "mlecoq",
-			"popularity": 9,
-			"registered": true,
-			"avatar_url": "https://surleweb.xyz/api/postton/postton_avatar_10.png"
+			"game": 1,
+			"win": true
 		}
 	],
-	"posts": [
-		{
-			"id": 1,
-			"content": "Toto demande à sa maîtresse : « Madame, est-ce qu'on peut être puni pour quelque chose qu'on n’a pas fait ? » Elle répond : « Bien sûr que non Toto, ce serait injuste. » Toto : « Ouf ! J’ai pas fait mes devoirs. »",
-			"image_url": "https://surleweb.xyz/api/postton/postton_post_1.png",
-			"popularity": 8,
-			"tags": [
-				"toto",
-				"fun"
-			],
-			"author": "Bruno Kalata"
-		},
-		{
-			"id": 2,
-			"content": "La maîtresse : « Toto, si tu as 10 bonbons et que tu en manges 4, combien t’en reste-t-il ? » Toto : « 10, j’aime pas les bonbons. »",
-			"image_url": "https://surleweb.xyz/api/postton/postton_post_2.png",
-			"popularity": 7,
-			"tags": [
-				"toto",
-				"fun"
-			],
-			"author": "Uwe Rozenbergue"
-		},
-		{
-			"id": 3,
-			"content": "Toto rentre de l’école et dit à son père : « Papa, aujourd’hui j’ai été le seul à répondre à une question ! » Son père, fier : « Bravo ! Quelle question ? » Toto : « Qui a cassé la vitre du gymnase ? »",
-			"image_url": "https://surleweb.xyz/api/postton/postton_post_3.png",
-			"popularity": 9,
-			"tags": [
-				"toto",
-				"fun"
-			],
-			"author": "Reiner Kniziaque"
-		},
-		{
-			"id": 4,
-			"content": "La maîtresse : « Toto, conjugue le verbe marcher au présent. » Toto : « Je marche, tu marches, il marche... » La maîtresse : « Plus vite ! » Toto : « Je cours, tu cours, il court ! »",
-			"image_url": "https://surleweb.xyz/api/postton/postton_post_4.png",
-			"popularity": 10,
-			"tags": [
-				"toto",
-				"fun"
-			],
-			"author": "Antoine Bozza"
-		},
-		{
-			"id": 5,
-			"content": "« Toto, pourquoi es-tu en retard ce matin ? » Toto : « Parce qu’on a eu un panneau 'École – Ralentir'… alors j’ai ralenti. »",
-			"image_url": "https://surleweb.xyz/api/postton/postton_post_5.png",
-			"popularity": 6,
-			"tags": [
-				"toto",
-				"fun"
-			],
-			"author": "Eric Langue"
-		},
-		{
-			"id": 6,
-			"content": "La maîtresse : « Toto, tu copiais sur ton voisin ! » Toto : « Mais non madame, je vérifiais si lui aussi avait les mauvaises réponses. »",
-			"image_url": "https://surleweb.xyz/api/postton/postton_post_6.png",
-			"popularity": 8,
-			"tags": [
-				"toto",
-				"fun"
-			],
-			"author": "Elizabeth Ravage"
-		},
+	"factoids": [
 		{
 			"id": 8,
-			"content": "Les bananes sont des baies, mais les fraises ne le sont pas.",
-			"image_url": "https://surleweb.xyz/api/postton/postton_post_8.png",
-			"popularity": 9,
-			"tags": [
-				"fun",
-				"fact"
-			],
-			"author": "Inka Brandade"
+			"content_fr": "Les bananes sont des baies, mais les fraises ne le sont pas.",
+			"content_en": "Bananas are berries, but strawberries are not.",
+			"fake": false
 		},
 		{
 			"id": 9,
-			"content": "Les pieuvres ont trois cœurs, et deux s'arrêtent quand elles nagent.",
-			"image_url": "https://surleweb.xyz/api/postton/postton_post_9.png",
-			"popularity": 8,
-			"tags": [
-				"fun",
-				"fact"
-			],
-			"author": "Bruno Kalata"
+			"content_fr": "Les pieuvres ont trois cœurs, et deux s'arrêtent quand elles nagent.",
+			"content_en": "Octopuses have three hearts, and two of them stop when they swim.",
+			"fake": false
 		},
 		{
 			"id": 10,
-			"content": "Un groupe de flamants roses s'appelle une 'flamboyance'.",
-			"image_url": "https://surleweb.xyz/api/postton/postton_post_10.png",
-			"popularity": 7,
-			"tags": [
-				"fun",
-				"fact"
-			],
-			"author": "Richard Garphonne"
+			"content_fr": "Un groupe de flamants roses s'appelle une 'flamboyance'.",
+			"content_en": "A group of flamingos is called a “flamboyance”.",
+			"fake": false
 		},
 		{
 			"id": 11,
-			"content": "La tour Eiffel peut grandir de plus de 15 centimètres en été à cause de la dilatation du métal.",
-			"image_url": "https://surleweb.xyz/api/postton/postton_post_11.png",
-			"popularity": 8,
-			"tags": [
-				"fun",
-				"fact"
-			],
-			"author": "Antoine Bozza"
+			"content_fr": "La tour Eiffel peut grandir de plus de 15 centimètres en été à cause de la dilatation du métal.",
+			"content_en": "The Eiffel Tower can grow more than 15 centimeters in the summer because of metal expansion.",
+			"fake": false
 		},
 		{
 			"id": 12,
-			"content": "Le miel ne périme jamais. Des archéologues ont trouvé du miel vieux de 3 000 ans encore comestible.",
-			"image_url": "https://surleweb.xyz/api/postton/postton_post_12.png",
-			"popularity": 10,
-			"tags": [
-				"fun",
-				"fact"
-			],
-			"author": "Uwe Rozenbergue"
+			"content_fr": "Le miel ne périme jamais. Des archéologues ont trouvé du miel vieux de 3 000 ans encore comestible.",
+			"content_en": "Honey never spoils. Archaeologists have found 3,000-year-old honey that was still edible.",
+			"game": 10,
+			"fake": false
 		},
 		{
 			"id": 13,
-			"content": "Les requins existaient avant les arbres. Ils sont apparus il y a plus de 400 millions d'années.",
-			"image_url": "https://surleweb.xyz/api/postton/postton_post_13.png",
-			"popularity": 9,
-			"tags": [
-				"fun",
-				"fact"
-			],
-			"author": "Eric Langue"
+			"content_fr": "Les requins existaient avant les arbres. Ils sont apparus il y a plus de 400 millions d'années.",
+			"content_en": "Sharks existed before trees. They appeared more than 400 million years ago.",
+			"fake": false
 		},
 		{
 			"id": 14,
-			"content": "On n'utilise que 10 % de notre cerveau.",
-			"image_url": "https://surleweb.xyz/api/postton/postton_post_14.png",
-			"popularity": 9,
-			"tags": [
-				"fake",
-				"fact"
-			],
-			"author": "Elizabeth Ravage"
+			"content_fr": "On n'utilise que 10 % de notre cerveau.",
+			"content_en": "We only use 10% of our brain.",
+			"fake": true
 		},
 		{
 			"id": 15,
-			"content": "Le mur de Chine est visible depuis la Lune.",
-			"image_url": "https://surleweb.xyz/api/postton/postton_post_15.png",
-			"popularity": 10,
-			"tags": [
-				"fake",
-				"fact"
-			],
-			"author": "Inka Brandade"
+			"content_fr": "La grande muraille de Chine est visible depuis la Lune.",
+			"content_en": "The Great Wall of China is visible from the Moon.",
+			"game": 10,
+			"fake": true
 		},
 		{
 			"id": 16,
-			"content": "Les cheveux et les ongles continuent de pousser après la mort.",
-			"image_url": "https://surleweb.xyz/api/postton/postton_post_16.png",
-			"popularity": 8,
-			"tags": [
-				"fake",
-				"fact"
-			],
-			"author": "Matt Lecoq"
+			"content_fr": "Les cheveux et les ongles continuent de pousser après la mort.",
+			"content_en": "Hair and nails keep growing after death.",
+			"fake": true
 		},
 		{
 			"id": 17,
-			"content": "Les caméléons changent de couleur pour se camoufler.",
-			"image_url": "https://surleweb.xyz/api/postton/postton_post_17.png",
-			"popularity": 7,
-			"tags": [
-				"fake",
-				"fact"
-			],
-			"author": "Bruno Kalata"
+			"content_fr": "Les caméléons changent de couleur pour se camoufler.",
+			"content_en": "Chameleons change color to camouflage themselves.",
+			"fake": true
 		},
 		{
 			"id": 18,
-			"content": "Le sucre rend les enfants hyperactifs.",
-			"image_url": "https://surleweb.xyz/api/postton/postton_post_18.png",
-			"popularity": 8,
-			"tags": [
-				"fake",
-				"fact"
-			],
-			"author": "Reiner Kniziaque"
+			"content_fr": "Le sucre rend les enfants hyperactifs.",
+			"content_en": "Sugar makes children hyperactive.",
+			"fake": true
 		},
 		{
 			"id": 19,
-			"content": "Napoléon était très petit.",
-			"image_url": "https://surleweb.xyz/api/postton/postton_post_19.png",
-			"popularity": 8,
-			"tags": [
-				"fake",
-				"fact"
-			],
-			"author": "Richard Garphonne"
-		},
-		{
-			"id": 20,
-			"content": "Hold the line. 1978. Premier album, premier hit. En sample dans la chanson Mon Son du rappeur Booba.",
-			"image_url": "https://surleweb.xyz/api/postton/postton_post_20.png",
-			"popularity": 4,
-			"tags": [
-				"toto",
-				"music"
-			],
-			"author": "Reiner Kniziaque"
-		},
-		{
-			"id": 21,
-			"content": "Rosanna. 1982. Régulièrement citée comme meilleure chanson du groupe. Patrick Swayze danse dans le clip quelques années avant Dirty Dancing.",
-			"image_url": "https://surleweb.xyz/api/postton/postton_post_21.png",
-			"popularity": 2,
-			"tags": [
-				"toto",
-				"music"
-			],
-			"author": "Matt Lecoq"
-		},
-		{
-			"id": 22,
-			"content": "Africa. 1982. Issue du même album que le hit Rosanna, la chanson a failli être rejetée avant de devenir un des plus gros succès du groupe et de la musique pop.",
-			"image_url": "https://surleweb.xyz/api/postton/postton_post_22.png",
-			"popularity": 6,
-			"tags": [
-				"toto",
-				"music"
-			],
-			"author": "Inka Brandade"
-		},
-		{
-			"id": 23,
-			"content": "Dune. 1984. Improbable mais c'est effectivement Toto qui a réalisé la bande originale du film Dune de David Lynch.",
-			"image_url": "https://surleweb.xyz/api/postton/postton_post_23.png",
-			"popularity": 6,
-			"tags": [
-				"fun",
-				"toto",
-				"music"
-			],
-			"author": "Eric Langue"
+			"content_fr": "Napoléon était très petit.",
+			"content_en": "Napoleon was very short.",
+			"fake": true
 		}
 	],
 	"profile": {
