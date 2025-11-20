@@ -4,63 +4,63 @@
 			"id": 1,
 			"first_name": "Bruno",
 			"last_name": "Kalata",
-			"game": 2,
+			"game": "hangman",
 			"win": true
 		},
 		{
 			"id": 2,
 			"first_name": "Antoine",
 			"last_name": "Bozza",
-			"game": 1,
+			"game": "tictactoe",
 			"win": false
 		},
 		{
 			"id": 3,
 			"first_name": "Reiner",
 			"last_name": "Kniziaque",
-			"game": 3,
+			"game": "memory",
 			"win": true
 		},
 		{
 			"id": 4,
 			"first_name": "Uwe",
 			"last_name": "Rozenbergue",
-			"game": 1,
+			"game": "tictactoe",
 			"win": true
 		},
 		{
 			"id": 6,
 			"first_name": "Eric",
 			"last_name": "Langue",
-			"game": 2,
+			"game": "hangman",
 			"win": true
 		},
 		{
 			"id": 7,
 			"first_name": "Richard",
 			"last_name": "Garphonne",
-			"game": 3,
+			"game": "memory",
 			"win": false
 		},
 		{
 			"id": 8,
 			"first_name": "Elizabeth",
 			"last_name": "Ravage",
-			"game": 3,
+			"game": "memory",
 			"win": true
 		},
 		{
 			"id": 9,
 			"first_name": "Inka",
 			"last_name": "Brandade",
-			"game": 2,
+			"game": "hangman",
 			"win": false
 		},
 		{
 			"id": 10,
 			"first_name": "Matt",
 			"last_name": "Lecoq",
-			"game": 1,
+			"game": "tictactoe",
 			"win": true
 		}
 	],
@@ -69,75 +69,87 @@
 			"id": 8,
 			"content_fr": "Les bananes sont des baies, mais les fraises ne le sont pas.",
 			"content_en": "Bananas are berries, but strawberries are not.",
-			"fake": false
+			"fake": false,
+			"image_url": "https://surleweb.xyz/api/postton/bananas.png"
 		},
 		{
 			"id": 9,
 			"content_fr": "Les pieuvres ont trois cœurs, et deux s'arrêtent quand elles nagent.",
 			"content_en": "Octopuses have three hearts, and two of them stop when they swim.",
-			"fake": false
+			"fake": false,
+			"image_url": "https://surleweb.xyz/api/postton/octopus.png"
 		},
 		{
 			"id": 10,
 			"content_fr": "Un groupe de flamants roses s'appelle une 'flamboyance'.",
 			"content_en": "A group of flamingos is called a “flamboyance”.",
-			"fake": false
+			"fake": false,
+			"image_url": "https://surleweb.xyz/api/postton/flamingos.png"
 		},
 		{
 			"id": 11,
 			"content_fr": "La tour Eiffel peut grandir de plus de 15 centimètres en été à cause de la dilatation du métal.",
 			"content_en": "The Eiffel Tower can grow more than 15 centimeters in the summer because of metal expansion.",
-			"fake": false
+			"fake": false,
+			"image_url": "https://surleweb.xyz/api/postton/eiffel.png"
 		},
 		{
 			"id": 12,
 			"content_fr": "Le miel ne périme jamais. Des archéologues ont trouvé du miel vieux de 3 000 ans encore comestible.",
 			"content_en": "Honey never spoils. Archaeologists have found 3,000-year-old honey that was still edible.",
 			"game": 10,
-			"fake": false
+			"fake": false,
+			"image_url": "https://surleweb.xyz/api/postton/honey.png"
 		},
 		{
 			"id": 13,
 			"content_fr": "Les requins existaient avant les arbres. Ils sont apparus il y a plus de 400 millions d'années.",
 			"content_en": "Sharks existed before trees. They appeared more than 400 million years ago.",
-			"fake": false
+			"fake": false,
+			"image_url": "https://surleweb.xyz/api/postton/sharks.png"
 		},
 		{
 			"id": 14,
 			"content_fr": "On n'utilise que 10 % de notre cerveau.",
 			"content_en": "We only use 10% of our brain.",
-			"fake": true
+			"fake": true,
+			"image_url": "https://surleweb.xyz/api/postton/brain.png"
 		},
 		{
 			"id": 15,
 			"content_fr": "La grande muraille de Chine est visible depuis la Lune.",
 			"content_en": "The Great Wall of China is visible from the Moon.",
 			"game": 10,
-			"fake": true
+			"fake": true,
+			"image_url": "https://surleweb.xyz/api/postton/wall.png"
 		},
 		{
 			"id": 16,
 			"content_fr": "Les cheveux et les ongles continuent de pousser après la mort.",
 			"content_en": "Hair and nails keep growing after death.",
-			"fake": true
+			"fake": true,
+			"image_url": "https://surleweb.xyz/api/postton/hair.png"
 		},
 		{
 			"id": 17,
 			"content_fr": "Les caméléons changent de couleur pour se camoufler.",
 			"content_en": "Chameleons change color to camouflage themselves.",
-			"fake": true
+			"fake": true,
+			"image_url": "https://surleweb.xyz/api/postton/chameleons.png"
 		},
 		{
 			"id": 18,
 			"content_fr": "Le sucre rend les enfants hyperactifs.",
 			"content_en": "Sugar makes children hyperactive.",
-			"fake": true
+			"fake": true,
+			"image_url": "https://surleweb.xyz/api/postton/sugar.png"
 		},
 		{
 			"id": 19,
 			"content_fr": "Napoléon était très petit.",
 			"content_en": "Napoleon was very short.",
-			"fake": true
+			"fake": true,
+			"image_url": "https://surleweb.xyz/api/postton/napoleon.png"
 		}
 	],
 	"profile": {
